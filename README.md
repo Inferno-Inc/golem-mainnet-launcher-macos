@@ -1,0 +1,1 @@
+# golem-mainnet-launcher-macos
